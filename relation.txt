@@ -1,0 +1,2480 @@
+UnderstandingTextbook
+Textbook forForeword
+Foreword byChair
+Chair forDepartment
+Department oftGmbHISBNYorkENumberis
+is subjectimplyCoverisNoahnoticedstarted
+started inwas
+includeis
+is hardtend
+limited
+limited tostep
+step by
+containshopePreneelcrept
+crept into
+addressesprovideshas
+has manyvidesisfind
+find manyevolved
+evolved over
+evolved over manyCurriculum
+isneering
+worksTrained
+Trained asPaarSeptemberbeen
+been impossibleare
+are grateful
+logarithmsgo
+Moradiisgeneration
+generation of
+generation of doctoral
+helpedisIntroduction
+Introduction tointroducelearnrules
+rules oflengths
+lengths for
+lengths for shortdifference
+difference between
+difference between differentlearn
+learn about
+learn about modularusePaarDOIOverview
+Overview ofbereproduced
+reproduced withlinked
+linked to
+linked to modern
+are
+focuses
+focuses on
+focuses on modernteaches
+teaches manyLet
+thingOverview
+Overview ofOverview
+Overview ofnoticeisis
+is
+is of
+is of centralis
+is on
+areareintroduced
+introduced bydeal
+deal withviewed
+viewed asspeakingisis
+is on
+is on symmetric
+introduce
+introduce basicCryptographydeals
+deals withreferred
+referred to
+is
+be
+are
+are manychosenget
+get intoCommunication
+Communication overoffers
+crypts
+receives
+look
+look like
+look like randomcryptosystemare
+are importantcalledcalledcalledneeds
+islearnisdecrypt
+is
+is crucialconsiderCipherlearn
+used
+used manyis
+isencrypted
+encrypted asassumeLetifccseem
+isForcehas
+knowsbeis
+is important
+e
+eLet
+existspace
+space oftake
+take several
+is
+is incorrectAnalysisnote
+analyzeisexploitedbe
+be closegeneralized
+generalized byassumedetect
+detect frequentareExampleMEET
+MEET IN
+MADEfrequencies
+frequencies oflearned
+learned Gooddeals
+deals with
+stressedThoughts
+Thoughts onsay
+areOverview
+Overview ofCryptanalysisunderstood
+understood as
+recall
+recall fromAttacksusedAttacksusedisupdates
+isis
+thinklooks
+looks forassumesadhere
+adhere tois
+is counterintuitive
+is
+isAre
+Are Enoughwas
+was muchisworksdifaregives
+be
+be strongtime
+time for
+time for successfulforesee
+foresee new
+assumed
+needbe0
+0 inis
+is important
+do
+need
+are
+are fewCiphersuseassign
+applieddiscussed
+discussed in
+discussed in morealgorithms
+introduce
+introduce modularLetConsider1hleaveLetconsider0do
+do regulartry
+writeintroduceareComputation
+Computation ofism
+r
+r fordividesrLetmodIsiswantisisisis24form0
+27835Members
+Members ofmatterExample
+saymodNoteis
+perform81replacemodobtainrememberisChoosechoosematteraremLetLet
+dealing
+dealing withdiscussed
+discussed inadd
+saidare
+are associativec
+c for
+Zmisholds
+modismod
+existsisexistsdefined
+defined suchdivide
+divide bytakeshasis
+is of
+is of greatLet
+Becauseexistexist
+exist inis
+Zm
+e
+holdsis
+is of
+is of centralhaveShiftintroduce
+isishasEncoding
+Encoding ofare
+is
+followsLetATTACKcomputed
+computed asy6islaunchusetry
+encrypts
+encrypts byderived
+derived frommodgcd5tryNote
+is
+hasLetATTACKgiven
+given byy6Is
+isvalues
+values forhas
+fixed
+broken
+broken withdeals
+deals with
+deals with strongDiscussionaddresses
+addresses practicalintroducedbelongs
+belongs to
+is
+taught
+taught outside
+isDiscussionmatured
+ware
+areare
+are severalomits
+omits mostis
+usedtouches
+touches upon
+touches upon provableisisistare
+PUBSdevelopuse
+use unprovenlook
+look forareinsecure
+insecure exceptarebitisencryptedqmbm
+ibndtrashmwk
+ijnkdhrii
+xwkmh
+qmbmwant
+isseereceivedghlxiwiwtxgqaddsPerformwroteconsiderAssumerun
+run intry
+tends
+assumeconsiderAssume
+eisAssumerequired
+required forletters
+letters fromisLetgiven
+given inCompute
+Compute withoutconsiderConstructConstructConstructaredointroduced
+introduced inComputecalledFinddenotecalleddeals
+deals withDecryptfalszztysyjzyjkywjrztyjztyynaryjkyswarztyegyyjwant
+useELMSYareisencryptedcomeassume
+isturnsisareShowFindencryptencryptdescribeis
+is of
+is of greatseeareas
+areas withingivesprosgeneratorsOTPregistersCryptographyDOICiphers
+Ciphers vssplit
+split intoxO
+y1
+ybPrinciples
+Principles offollowsisciphersencryptintroduced
+introduced in
+introduced in latergivesusedare
+used
+used forassumed
+areEncryptionis
+isdepictareareEncryptionuseisgiveAreshown
+knowyimodismod
+haveIsgiven
+given in
+is
+is worth
+treat
+treat arithmeticlook
+look familiar
+is
+is in
+is in importantplaysis
+findtable
+table ofis
+is
+is unpredictable
+are
+are on
+isobserved
+arewantsNoteseesreproduceslook
+doesIsturns
+depends
+depends on
+get
+guess
+guess
+needinvented
+invented in
+fed
+fed intoNumbersGeneratorsislearn
+learn aboutTRNGcharacterized
+characterized byisincludePRNGgenerate
+computedsiareissiare
+are integer
+is
+hassiisSecurearemeansisneeded
+arediscussdefinebased
+based on
+is
+assumearesaid
+calledis
+is easy
+getis
+are
+ishave
+be
+means
+isusedused
+used in
+giveTowardssawciphersstressed
+areseems
+seems like
+knowLet
+need
+need
+need deterministic
+look
+look atBuildingis
+tempting
+isLetSichoose
+is
+comprisesarelaunchyigivemodisS1Bget
+get multiple
+detected
+detected in
+computeisBuildingisare
+needisisargued
+seems
+deal
+deal in
+deal in greatShiftuseLFSRconsists
+consists of
+consists of clocked
+gives
+said
+computesconsider
+denoted
+denoted by
+called
+called linear
+gives
+see
+see fromregister
+register ofSequence
+Sequence ofstarts
+meansismodcomputed
+computed assi2was
+observe
+observe manyDescription
+Description ofshown
+shown in
+showsis
+is activeused
+used forobtainsmLetcomputed
+computed bysm
+computed
+computed asdescribed
+described assi
+2referred
+referred toproduceis
+is easy
+e
+be
+be ableLFSR
+LFSR with
+LFSR with maximumhasLFSR
+LFSR with
+LFSR with nonisis
+is beyondpmspecified
+specified by
+erefers
+refers to
+x5
+Notepolynomials
+polynomials for
+polynomials for maximum90914594730910122416831920218Attack
+Attack Against
+Attack Against Singlegoverned
+governed by
+governed by linear
+makesis
+isLetstructsmod
+iisissiNotesmip0smm
+m linearhas
+has major
+isisDescription
+Description ofare
+arestructure
+structure ofconnected
+connected to
+arranged
+arranged in
+viewed
+viewed ascomputed
+computed asisfed
+fedcomputed
+computed asregisterfed
+fed
+fed togiven
+given inSpecification
+Specification ofarelinearity
+linearity ofEncryption
+Encryption withhave
+is
+is important
+isloaded
+loaded into
+loaded
+loaded inclockedPhase
+starting
+starting withneeded
+needed foris
+consists
+consists of
+iskeep
+keep inDiscussionpossibilityDiscussionare
+patentedis
+is
+cipher
+usedchanged
+changed withhad
+issued
+issued inProfileProfileemphasizedsubmitted
+submitted tov2is
+is importantGeneration
+require
+tropy
+proposed
+proposed over
+contains
+hasarerequire
+require fewerareis
+ismake
+make poorgeneralizedDevelopDecryptencryptedmurderedAssumeAssumeseems
+isareanalyzeisisrelatedassumeSpecifyComputestudybased
+based onpolynomialsis
+is independentdepends
+depends onstudyDrawGiven
+hasneededDescribeisconductByisisDetermineDrawwanthappenisstarts
+starts withobserveisareWriteliveperformAssumeDESbeen
+been by
+yieldslearnprocess
+process ofideas
+ideas ofstructure
+structure ofanalysis
+analysis ofAlternatives
+Alternatives toPaarDOIperformed
+performed by
+becomereceived
+seems
+seems certain
+convincedworriedreleasedgrew
+foundIntroduction
+Introduction tofirmedAESConfusionis
+is instructive
+areisisare
+builtPrinciple
+Principle ofpossess
+possess excellent
+changing
+changing ofbits
+looksLet
+result
+result inPrinciple
+Principle ofNoteOverview
+Overview ofisis
+shows
+kisOverview
+Overview ofstructure
+structure ofschedulearef
+is
+swappedLi
+Riswappedis
+derived
+derived fromis
+is crucial
+copied
+copied to
+Inis
+is helpful
+usedresults
+results instructure
+structure ofrealized
+realized withinis
+mapped
+remains
+remains bijective
+e
+is
+is inmany
+many to
+uses
+uses nonlinearStructure
+Structure ofshowsPermutationareare
+seems
+seems likelyExamples
+Examples forExamples
+Examples forgiven
+given in
+indicatesperformsIPIPplays
+takesdiagram
+diagram ofpanded
+panded toExamples
+Examples forappear
+appears
+increasesEisExample
+isExample
+Example ofarespeculation
+knowhasbefixeddiffer
+differ indiffer
+differ inbe
+be differentresult
+result inisNotelinearity
+linearity toSexpress
+declaredbitwise
+bitwise according
+roundguarantees
+known
+known as0
+P
+P withinderives
+note
+arereduced
+reduced to
+stripped
+stripped inLocation
+Location ofPCsplit
+split into
+according
+according torotatedleft
+left byis
+isscheduleschedule
+schedule forpermutedgiven
+given inPCNoteis
+is
+hasScheduleis
+derived
+derived afterD16needPCPCD0derived
+derived via
+derived via rightrotatedroundsroundsshowsDecryption
+Decryption inaddressed
+isL16schedule
+schedule forsaysR15
+is
+is easylook
+look atk16k16L15shown
+shown inis
+cancelL15
+reverses16
+roundhaveIPisattacked
+attacked in
+attacked in severalis
+is
+is vulnerablekept
+kept secretdiscuss
+broken
+broken withSearchjustifiedNote
+checkareproposed
+consideredbeen
+been impossible
+speculatedreproduced
+reproduced withprovideCOPACOBANA
+breakersayImplementation
+Implementation inbecipher
+turned
+declared
+declared aftersupportpublished
+published byturns
+takes
+areImplementation
+Implementation inprovideHistory
+History of
+History of fullrefers
+refers tobeen
+been numerousismodes
+modes ofwas
+arerealizable
+realizable in
+implemented
+implemented with
+implemented with Booleandone
+done with
+done with less
+spectrumexistAESbecome
+is
+is withwas3DESis
+is tripleconsists
+consists ofDESk3
+DESk1with
+with differentseems
+seems resistant
+isDESkisis
+yieldsDESkmakesPRESENTisconstrainedSTATE
+STATEaddRoundKeystructurebased
+based on
+is
+pLayer
+uses
+described
+described inisuses
+isbox
+box in
+box in hexadecimalreferred
+referred toconsidered
+considered as
+i
+arechosen
+chosen as
+moved
+ilayer
+layer ofisP
+idescribe
+describe in
+supplied
+consists
+consists of
+Thus
+Thus at
+haveKiisk8kconsists
+consists of
+value
+isNotevalueisDiscussionachievesimplemented
+implemented innotedDiscussionhelps
+areusednoted
+includeisis
+include
+given
+given inisis
+67wasbrokenisiscreatedseemmadeisShowwantisisRememberget
+get differentisischanged
+changed compared
+effectisAssumeboxes
+boxes incalledDESKwDescribeareishasdenoteLetstatesTryShowneeded
+needed forShowShowshowareShowShow
+lshowShowAssume
+many
+many on
+many on averagewantLet
+Ignorerequired
+required forconsiderComputeplatform
+platform withFPGAs
+FPGAs perengines
+engines perpipelinedfrequencyneed
+need inconstitutestudy
+was
+was flawedgenerated
+generated fromtake
+take withused
+is
+take
+take withis
+convertedtake
+take withdeals
+deals withuseFFFFcalculateAESis
+arelearnAESencryptionstructure
+structure oflayerfacts
+facts aboutEfficiency
+Efficiency ofPaarDOIindicated
+isroundswere
+were mandatoryblocksupportedsecurity
+security relativeefficiency
+efficiency inwasannounced
+announced onannounced
+announced onsubmitted
+submitted byannouncedMars
+Mars byRC6
+RC6 byRijndaelSerpentTwofishOverview
+Overview ofannouncedapproved
+approved asexpectedOverview
+Overview ofvary
+vary between
+known
+known asAESsupported
+supported by
+islengthsroundshaveisconsists
+consists of
+referred
+referred to
+makecontinue
+continue withisBox
+introduces
+propagatelayerpermutesisroundfromhaveIntroduction
+Introduction toused
+used in
+used in most
+provideExistence
+Existence ofcalled
+werounddiagramaddisform
+hasisisareimplies
+Inare
+represented
+represented by
+are
+are modularmeanshavedefined
+defined asconsiderinverseexistperformisLetmultiplicationis
+is equivalentGFcontainsGFcalledrepresented
+represented as
+haveused
+used in
+represented
+represented asaiis
+isa6haveAdditionLetNote
+is
+is equalis
+A
+BNoteMultiplication
+Multiplication inisam
+am 1xm
+Ctamare
+eis
+is reduciblex3usedx3usedwant
+given
+given ascomputed
+computed asCt
+x2reduce
+is
+is easierx4Phavex2is
+is importantstored
+stored asx2is
+been
+representisdefined
+defined asPmeansused
+contains
+isexist
+definedtable
+table inExamplexygiven
+given byx2verified
+verified byx2NotecomplexisStructure
+Structure ofexamineBox
+is
+noteAESis
+is inimagineisdiscussLayeris
+replacedisvalues
+values in
+values in hexadecimalLethexOnhave
+Ai
+Ai such
+isLetisfollows
+Figoperations
+operations within
+Aiis
+putedwithshown
+shown inmultiplied
+multiplied byNote
+referred
+referred toworkassume
+see2applyC2computed
+isadvantage
+advantage ofisconsists
+consists ofperforms
+B
+ABisisleftleftleftis
+makesdenoteisconsidered
+considered ascontains
+contains constantbytes
+ure
+used
+e
+iseare
+arecontinue
+continue withBhavex5x5xx2is
+is necessarybytes
+bytes ofx5leads
+leads toare
+Note
+derived
+derived intakes
+is
+is equal
+isisSchedule
+Schedule forstored
+stored in
+computed
+denotenote
+copied
+copied into
+areAES
+AES keycomputed4iiis4iperforms
+e
+added
+added to
+vary
+vary fromaddsSchedule
+Schedule forhas
+formed
+formed by
+needed
+needed within
+computed
+computed asSchedule
+Schedule forneeds
+hasexistexpanded
+executednoteAES
+AES keyisderived
+derived forAES
+AES keybecomes
+Howeverdition
+neednrAEScontainisAESSublayeris
+usedcomputed
+computed byare
+is
+is hexadecimal0BareSublayershiftyieldsshiftpositions
+positions rightshiftLayerusedAiareconsidered
+defined
+defined byvalues
+values in
+values in hexadecimalishas
+meansAimapped
+mapped toScheduleneeds
+achieved
+achieved byImplementation
+Implementation inaddsImplementation
+Implementation incomment
+comment ondesigned
+designed suchproposed
+accessesreachrequires
+requires more
+increasedneeded
+needed in
+needed in modernDiscussiondescribes
+isisisusedwasisisis
+provides
+provides excellentstudieduseseems
+seems likelyis
+is efficientdescribesdescribeOutlineisdevelopedsupported
+supported bydone
+done byCompute
+Ais
+areis
+is in
+RemarkAddition
+Addition inx2x2Multiplication
+Multiplication inx2x2x2isconsiderVerifyFindofofisconsider
+consider AEScheckbeareW0wantComputeComputechangedconsists
+consists of
+isEquations
+Equations forEquations
+Equations forEquations
+Equations forNotelook
+look atrequiredisassumeconsiderUsingVerifyNoteGF
+representsislookVerifyisDeriveAssumehaveassume
+assume AES
+lettakehaveMore
+More Aboutis
+discusseslearnmodes
+modes ofpitfallsprinciples
+principles of
+principles of keyisPaarDOIEncryption
+Encryption withwants
+introduce
+introduce severalECBCBCCFBmodewant
+determine
+allowsaltered
+altered duringrequire
+isECBispartitioned
+partitioned intoEncryptionis
+is straightforwardekhas
+is
+allowareis
+is susceptiblemanipulatedattack
+attack against
+attack against electronicLet
+tweenExample
+Example foropenstapsobservesmeans
+contains
+NoteWithdrawis
+usesay
+placed
+is
+islook
+look atEncryption
+Encryption ofshows
+read
+is
+areImageis
+is similarwere
+isChainingarefed
+encrypted
+For
+is
+Note
+depends
+depends onEncryptionhaveundo
+expressed
+expressed for
+expressed for general
+showsbe
+be XORed
+e
+described
+described asverifyd
+x1obtainyibecomes
+x1
+look
+want
+is
+takeis
+is instructiverecognizeaccount
+account at
+redirected
+redirected to
+be
+is
+showsOFBused
+shown
+shown inis
+givesforms
+isishaveisEncryptionisCFBuses
+is
+is similar
+generatedare
+isfollowsEncryptionisused
+used in
+used
+used for
+shifted
+shifted byishave
+OtherwiseEncryptiontaken
+taken in
+isnote
+bewonderareGCMis
+computes
+make
+make sureprotectsconsists
+consists of
+incremented
+Noteperforms
+derived
+addsshowsencryption
+encryption indecryptscomputes
+isassuredRevisitedsawDESkis
+foundisLetassume
+exist
+considered
+considered keyspacemap
+map betweenis
+need
+viewedReturning
+Returning to
+and
+isisdecreasespairsisIncreasingwishcalled
+called keyappears
+beEncryptionLeteklencryptionrequire
+reducedhascompute
+i
+ekL
+i
+i
+symbolized
+symbolized by
+isperformcheckhave
+zR
+gives
+means
+iekL
+y1is
+y1
+have
+y2LetLetisLetstore
+isnumber
+number ofnumber
+number ofareNoteisek3usedyreferred
+referred to
+hasis
+is single
+is
+is sufficientperformeklencryptionassume
+has
+saidopposed
+opposed tois
+is possibleusedwhitening
+whitening ofis
+is important
+derived
+derived fromLet
+Howeverdiscuss
+say
+hasDiscussionisis
+takesDiscussionmodes
+used
+used inincludeis
+areusedare
+is
+Thusfound
+proposedhas
+areare
+are many
+hasturnarehasallowsimprovesdoublesenlargesConsiderconsiderneededAssumeare
+are necessarybreakingcrypted
+crypted by
+basedmanagedmakeDescribeisis
+is easyDrawis
+isLet
+copyproposedusingis
+letAssumeassumeSupposeAssumePreparedisrupted
+isanalyze2DESletassume5
+5 per
+assumeLethavehaveis
+beginassumeGByteAssumingImagine
+Provide
+is
+is pureisneedisattack
+attack withEstimateNotebroken
+broken withis
+illustratessaw
+saw inDESkadds
+adds to
+isIntroduction
+Introduction toletused
+used for
+debatedlearnhistory
+history of
+history of publicprostopicsPaarDOISymmetric
+Symmetric vssee
+isRevisitedletPrinciple
+Principle of
+Principle of symmetricis
+is symmetricused
+used forareis
+decryptAnalogy
+Analogy for
+Analogy for symmetricSymmetric
+Symmetric vsare
+are
+are severalestablished
+established betweendeal
+deal withhasis
+changes
+provideAnalogy
+Analogy for
+Analogy for publicPrinciples
+Principles ofhad
+kpubshown
+shown in
+works
+lookskprotocol
+protocol for
+protocol for publicargue
+is
+uselookskprchoose
+choose randomencryptprotocol
+protocol witheasy
+is
+is easy
+beleadalgorithmare
+is
+is
+factored
+isAspects
+Aspects ofintroduced
+introduced in
+isused
+used fornote
+used
+used for
+are
+are hybridAuthenticity
+Authenticity ofseen
+knowisisAlgorithmslearned
+learned aboutproposed
+proposed inis
+is importantbeen
+e
+knownare
+areLevelsbased
+based on
+islengths
+lengths of
+lengths of publicwantis
+computationalgrows
+beTheory
+Theory forstudy
+are
+are importantstart
+start withisis
+is easyLetr0isgcdfactoringis
+algorithmr1proven
+write
+e
+have
+have common
+is
+is easy
+follows
+follows fromgcd
+gLetletr1isfollowsr10
+usesr1swapr1is
+egcd
+gcd rlshowLetisgcdgcdgcdgcdExample
+Example ofisLethavedescription
+description ofNoteisAlgorithmseen
+turns
+allowstreferred
+referred tois
+istir1endrlmeans
+looking
+looking forconsider
+e
+compute
+compute newhave
+tir1
+coefficientsshown
+shown incomputedverified
+verified bygcdwatchobserve
+i
+Intiticomputeri
+ri fromrirewritten
+rewritten asRecallhappenssubstitutetirearrange1sigivestineedis
+required
+obtainsr1isapplyis
+gcd
+obtainproceedsgives1follows
+follows fromverifiedmodNotenoteshow
+are
+computesP
+PNotesPgive
+give ataretit0x2t4Termination
+Termination sinceNote
+t4
+xtist4x
+PNotecomputedconsider
+e
+areinterested
+interested in
+given
+given bylook
+look atLeteisLethaveguess
+com
+existsisLetmfollowsm
+64meansis
+is important
+computeTheoremdescribe
+describe next
+is
+is helpfulconfusenote
+p
+stated
+stated inis
+is
+haveway
+way formod
+pnoteLetapis
+is easyis
+areisis
+is applicable
+showcompute4verifymodis
+is easyDiscussionintroduced
+introduced inrecommended
+recommended inare
+are
+areunderstoodhaveareusedallowsgivesused
+used for
+hasuse
+use symmetricwantAssumeences
+analyzeAssumeDeterminedoesDetermineDescribewantcomputeuse
+write
+egcdcomputecheckhaveaffineNoteDetermineDevelop
+Develop formulaem
+is
+is of
+is of greatComputeVerifyfound
+found asDerivehasopenedreproduced
+reproduced withlearnaspects
+aspects ofaspectsPaarDOIreferred
+referred toare
+are manyencryption
+encryption of
+encryption of smallsignaturesnoted
+isis
+play
+play important
+describeEncryptiondone
+done inare
+referred
+referred tostatebeencrypt
+encrypt morebeturnsGenerationisareensuresnare
+are nontrivial
+starts
+starts by
+satisfyeknow
+knowselectseewantschoosenyydNotearep
+FD
+hF0DCA99ABB
+C
+0EC8EAD4F
+AEFEDE1ADEC4ED
+EC4ED C75FA
+FFC7EED8EEEBFCC03Fisx
+xde
+modproveneedstart
+start withdisdkpr
+tmeans
+orem
+orem frommodgcdholdsdkprestablishesgcdhavexassume
+holds
+holds intlook
+look attis
+is equivalentxmultiplyxru
+qmodyieldsdkprrememberExponentiationbased
+based on
+based on arithmeticencryptiondkprlooks
+looks likeare
+are in
+are in general
+chosen
+chosen in
+chosenis
+is
+yes
+forget
+forget about
+is
+showLetneedrequiresworks
+works fine
+ishave
+requiretakesseesquaringmultiplyingcomputed
+providesbased
+based on
+Ifhasexecuted
+executed followingseems
+seems likeconsiderx26scansh4h3x12h22bx
+h1x124a4bis
+is helpfulisapplied
+applied afterdetermine
+provideassumingrequired
+required ontakesisSpeedinvolves
+studiedEncryption
+Encryption withused
+chosenexponentiation
+exponentiation with
+exponentiation with shortisis
+is
+is in
+is
+tendDecryption
+Decryption withchoose
+e
+say
+shownis
+noteTransformation
+Transformation ofreduceobtainxpExponentiation
+Exponentiation inperformgiven
+given byNoteholds
+holds forare
+are inTransformation
+Transformation intoisqcpcpprecomputedletLetmode
+computeperformarexpxqhave
+xq
+needcp
+followsmodmodmodcomputeestablishisLappears
+is
+is in
+be
+isis
+is easy
+neededequipped
+equipped with
+is
+make
+isis
+have
+isapproach
+approach tohavehavecheckturnsAreanswerintegers11is
+p
+test
+test odd
+islethave
+e
+ismeansmeansis
+is
+choose
+is
+needbehaveis
+is composite
+iis
+is primeyieldsRemembercertainTestbased
+based onis
+found
+found for
+is
+runare
+are certainareNumberisforare
+usedTesthaveturncomputed
+computed by
+tests
+looptesthappengiven
+given bychosen
+chosen inNumber
+Number ofTestLetLetLetLetLetgive
+give incorrect91RSA
+RSA inis
+are
+are problematice
+derived
+derived from
+derived from newproducebe
+be subjecthas
+Note
+achieved
+achieved in
+computesseddois
+1letRSA
+RSA incomputes
+done
+done inGeneratePSPSGenerateLetLetLet
+HLetConcatenatemaskedDBEMshowsencryption
+encryption ofoccurredbeen
+been numerouscomment
+comment onexploitfactoring
+knows
+y
+isd
+knowbeis
+is outSummary
+Summary ofisis
+recommendedexploit
+have
+have directshows
+is
+see
+appear
+is
+is performed
+reveals
+learnS
+S
+S SM
+SM
+SMkeyfindtrace
+trace ofclassified
+classified as
+classified as simple
+areImplementation
+Implementation inImplementation
+Implementation inis
+developassume
+hasmultiswasbecome
+become possible
+is
+usedDiscussionused
+used inas
+speedare
+shown
+saidis
+given
+given inbeenstudied
+studied inknown
+is
+is importantisused
+used for
+used for keybe
+berelies
+relies onallows
+allows severalLetisComputeclideanis
+is inevitableshowEncryptd9useis
+study
+study shortAssumeare
+are ofComputeUseuseduseSuggestVerifyhasDecryptVerifyarehaveDeriveisAssume
+Developisnoteasked
+obtain
+is
+is kpubConsiderisCalculateshowShowhappenillustratewantsdecideseavesdrops
+eavesdrops onisyassumeIsenlarged
+enlarged over
+is
+is dependentAssumeused
+used for
+used for longcycles
+cycles forassumeare
+reducedTry
+isLet
+increases
+identifyIdentifyAssume
+assumebelongs
+belongs toVerifyconsumption
+consumption ofCryptosystemssaidtion
+x
+isturnslearnexchangegroupsproblemEncryptionrelies
+relies on
+based
+based onstart
+start withPaarDOIExchangewas
+influenced
+influenced by
+enables
+isafunction
+emodisLetworksis
+isreferred
+referred toneedsiscomputesBaAbshare
+usedusinglookarechoosekpubBa
+Abcomputeare
+takehave
+precomputed
+isisbecome
+isintroducesrestateNoteExampleis
+formse01
+1 foris
+set
+set of
+set of complexwithu1
+v
+i
+uisplayLetLetExampletable
+table foris
+is satisfied
+equalsseeremember
+remember fromare
+provideareis
+n
+n sinceremember
+equals
+e
+n
+hasdeals
+deals withexaminetrya2a2a3a4followsisa6seecalled
+generateswanta4a5followsimplieswantsee
+theissee
+ishave
+have interestingstateshasis
+saysconsiderordordordoccurverified
+verified by
+follows
+follows fromconsider
+hold
+hold fortellsLetistable
+table forclosed
+closed under
+isisexistsH
+H ofnotedare
+haveknowLetExample
+has
+followselements
+elements primitiveH3characterizesgroupgivesExample
+considercomputemodverifyare
+are smarterProblemturnsProblem
+Problem instart
+start withRemember
+Remember from
+writeis
+isconsiderisisconsidergiven
+given forobtainProblemisstatedexistgenerated
+generated byis
+is importantistrymodishavecomputeverified
+verified by
+concludelist
+list discreteuses
+areintroduced
+introduced ingroup
+group ofused
+are
+requireused
+used inbeen
+foundAttacks
+Attacks Againstskipseenholds
+knows
+givesare
+areisexpect
+givesberequired
+required on
+required on average
+shouldholdsShanksis
+based
+based onxb
+xb for
+xb
+ewrite
+xg
+m
+xb
+leads
+leads tomis
+eusing
+compute
+ischecks
+checks for
+xgfulfilledcomputed
+computed during
+i
+xg
+given
+given byrequiresusegreater
+greater thancomputationsachievable
+achievable with
+have
+Ingroups
+have
+arelengths
+lengths ofhas
+is
+i
+continue
+ij2leads
+leads to
+Note
+computed
+computed asmodis
+name
+name ofis
+is of
+is of greatare
+willAlgorithmisp1attempt
+is
+isdesiredcomputed
+computed fromdepends
+depends onAlgorithmsehaveisisisdepends
+depends onof
+meansfoundisisachieveSummary
+Summary ofSecurity
+Security ofSecurity
+Security ofnotedLet
+e
+listen
+knows
+obtain
+iscalledis
+solvekeyComputeis
+is infeasibleis
+is important
+assumedinsee
+beSchemeproposed
+proposed byscheme
+scheme over
+However
+canapplied
+applied to
+applied to otherFromassume
+depicted
+depicted belowconsists
+consists of
+change
+is
+denoted
+denoted byisproviderearrangesconsists
+consists of
+isprovehavedkprkdd
+i
+ix
+d
+i
+d
+modLetgeneratesgeneratechoosedencryptkdy
+modis
+is importantis
+encrypting
+x1
+Z
+p
+is
+avoidedAspectsgeneratedrequired
+required for
+precomputed
+precomputed atarefollowed
+followed byperformed
+performed withfollowsmergeallowsrequired
+requiresfollowed
+followed byis
+is importantrecover
+and
+y
+obtained
+obtained byRecoversolves
+decryptxof
+attempt
+icomputey
+ihas
+appliedhaveusedassured
+usedis
+bedecryptrecoveredreplaceis
+computedkprsisDiscussionExchange
+iscurveis
+include
+chosenattacks
+attacks under
+attacks under certaindiscussed
+isidea
+idea ofinclude
+include hyperelliptic
+is
+XTRisisusedbeprovideschosenisis
+yieldbebits
+bits longisLetCreateaHint
+useconsiderstudyhavedivideare
+are primitiveVerify
+Verify forwantgivenDetermineisDeterminedone
+done naof
+bytaken
+taken inComputeperformdesignarechosen
+chosen fromareGiven
+bitisAssumeuses
+uses shortwantShowgenerated
+generated bydescribeconsider
+is
+aresaw
+holds
+holds for
+holds for passiveof
+manipulatebrokenWrite
+computesComputeEncryptd
+id
+id
+id
+idecryptuses
+know
+obtainareGiven
+valuesbenumberencryptsj
+modAssumeProvide
+fkpubGiveny2knownDescribecomputeseeisexist
+exist forIsinvestigateisare
+are possibleencrypts
+aretransmits193look
+look atCryptosystemsisprovides
+areare
+islearnprosisbuildProtocolsestimations
+estimations ofCompute
+Compute withstart
+start by
+isPaarDOIisstart
+start by
+plotLet
+yPlot
+Plot ofobtainlook
+look at
+look at otheris
+turnsc
+c overDefinition
+Definition ofconcludeis
+isrequiresare
+are interested
+get
+preventsshown
+shown overy2notice
+notice several
+is
+is symmetric
+followsare
+follows
+follows fromarereturn
+return to
+haveOperations
+Operations onLet
+meansy3turnsQ
+isworks
+isP
+is
+write
+need
+WeNoteNoteaddition
+addition ondraw
+isPointdoubling
+doubling ofwonder
+usedexpressconstructions
+constructions from
+involveNoteisturns
+definedefineis
+shows
+P
+is
+Incurves
+curves over
+achieved
+achieved since
+plook
+look atconsiderinverse
+inverse ofy2wantPs2y12Pchecky2Buildingis
+havenote
+is
+iswanty2happenscompute
+is2PP4P5P6P7P8P9P10Pbecomes
+becomes visiblePismeansholdis
+is important
+theoremtheoremLetisis
+yT
+were
+beisperformNotePuseis
+isrequires
+requires on
+requires on averagedoubles
+expressedconsiderP
+PscansExchange
+Exchange withPd3ADD6P2bd13bd04bis
+is instructivecomputepublishhasExchange
+Exchange withrealize
+havesaid
+said belowis
+is easycomputesremember
+choosegenerate
+exchange
+parameter
+used
+Note
+used
+used forconsideris
+proceedschoosekpubaBrequireused
+used asnote
+realizedappearschosen
+chosen withare
+p
+areusedbeprovidescomstressedImplementation
+Implementation inis
+ruledis
+is useful
+performed
+implements
+p
+istake
+computespectrumDiscussionareis
+is cubic
+impliesDiscussionwas
+was much
+appear
+used
+used in
+used in commercialisrecommended
+mended
+mended asisbelieved
+isintroducedare
+is
+are
+is
+is
+increasesis
+involves
+involves elliptic
+iused
+used in
+areallow
+allow for
+allow for manybased
+based onused
+used for
+used for keyprovideshasgainingShowy2Performy2given
+given withLetpoints
+points primitiveNoteLety2points
+points onmissdetermineare
+p
+adoneIllustrateAssumeAssume
+isGiveny2Calculateknown37
+Specifyusebe
+be ableisy2example
+example forpossess
+want
+cipher
+calculatedDescribe
+Hint
+pDerivefindpolynomial
+useare
+cryptographyshare
+originates
+originates fromlearnprinciple
+principle of
+principle of digitalservicesschemeschemePaarHeidelbergprovideColors
+Colors forhad
+are
+are many
+discussAssume
+is
+isSuppose
+has
+has secondhas
+be
+be able
+makeshim
+him with
+has
+argues
+explain
+explain touse
+have
+distinguishPrinciples
+Principles ofprove
+prove to
+InisPrinciple
+Principle of
+Principle of digitalstarts
+starts with
+is
+sign
+is
+appended
+appended to
+is
+is importantis
+inputs
+is
+is falsedevelopfollows
+kept
+kept confidentialallowsiskept
+kept secretmodified
+modified inis
+is authenticdenycall
+call for
+call for differentrequireachieved
+achieved inare
+are severalEstablishRestrictAssuresProvideProvideProvidedesired
+desired in
+have
+MostSchemebased
+based onSignatureSupposeshown
+shown incomputesreceives
+If
+knowshad
+changed
+changed inprove
+esethatraising
+yieldsswapped
+swapped compared
+appliesLetSuppose
+are
+used
+used forchoosesesignaturecomputesconclude
+conclude fromnotedAspectsnoteis
+is identical
+makes
+signed
+isassuredattempts
+beallowsimpersonates
+claims
+claims to
+generate
+isPSSprevented
+prevented bylikelylook
+look at
+isLetdenoteapplied
+applied toproceeds
+proceeds inis
+is inPrinciple
+Principle ofSchemebased
+based onSignatureisformed
+formed bySignatureUsingsigkprcomputed
+computed duringverified
+verified as
+verified as verkpubaccepts
+failsproveprequired
+modholdsmodfollows1requiredLetwantstsignaturecomputechoosesAspectsis
+is identical
+generated
+generated byconsists
+consists ofrequires
+done
+is
+is possiblemake
+make sureLogarithmsrelies
+relies on
+is
+usedReuse
+Reuse ofcompute
+Theare
+are differents1diss1computemodsign
+Ingiven
+given inLets1x2knowspisreveald19Attackimpersonates
+e
+claims
+claims to
+worksyieldsdr
+ppis
+is equalisissSignatureused
+used in
+used
+is
+NIST
+areintroducecomputedis
+is
+is inaresaid
+said inlengths
+lengths of
+lengths of importantSignatureconsists
+consists ofhas
+is
+is sufficient
+thought
+thought ofisaccepts
+fails
+considered
+considered invalidshowstart
+start withis
+is equivalents
+ddexpressed
+expressed inu1
+modraisemodwriteu1reducemodis
+is identicalLetwants
+ischoose
+choose privateu1u2vsignaturecomputechoose
+choose ephemeralmodsnoteAspectsdiscuss
+hasis
+is
+Noteare
+are odd
+isisisinvolvesisis
+estimatediserates
+seems
+turnsattacksprovide
+thehaveincreased
+said
+said inlengthsstressedbecomes
+becomes vulnerable
+assuredECDSAhave
+have severalrelated
+related to
+constructed
+constructed incurve
+performed
+performed fordefined
+defined for
+defined for ellipticfields
+preferred
+preferred incomputedisSignatureconsists
+consists ofassigned
+assigned to
+is
+is sufficientisindicates
+acceptsshowstart
+start withsis
+is equivalentsexpressed
+expressed inu1
+modmultiplyu1
+Awriteis
+is
+Alook
+look atwantschoosechoosedAu1u2PxP2computechoose
+choose ephemeralRsNotey2areAspectsdiscussishave
+hashing
+hashing of
+inisoccurs
+occurs during
+are
+are specializedcomputetional
+tional to
+igiven
+given inmatchchosenare
+checkedDiscussionlengthsDiscussionintroduced
+introduced inpublished
+published inproposed
+proposed in
+was
+used
+used for
+Note
+includesincludeassure
+addressassureenforced
+enforced in
+was
+was atis
+provides
+provides excellentprovideisareis
+isdone
+done with
+done with short
+ishaveused
+used withbe
+achievesstate
+IswantguaranteeassuredDesigncomes
+be
+be accessibleChooseutilizedGivenshowisperformencodedisneedtakes
+takes longerderive
+operates
+operates withtakeare
+isconsiderCalculatereceiveComparereceiveAreareShowGivenfulfilledsignatures
+signatures togivengiven
+given by
+ShowShowgiven
+given by
+1
+Showarelearnrequired
+required in
+required in digitalproperties
+properties ofanalysis
+analysis ofoverview
+overview of
+overview of differentworksPaarHeidelbergMotivationintroduced
+ignoredapproach
+approach toyieldstake
+haveOverhead
+doublesis
+remove
+remove individualMotivationperformisSigning
+Signing of
+Signing of longdescribecomputes
+verifiesnote
+representsgetisdigestbehavior
+behavior ofRequirements
+Requirements ofhave
+have
+turnsresistanceresistanceresistancevisualized
+visualized inresistanceresistanceresistanceproperties
+properties ofResistanceneed
+be
+transmitszisusecompute
+circumvented
+circumvented byisResistanceis
+is essential
+h
+z2
+differentiate
+differentiate betweengiven
+givenis
+is easy
+h
+runs
+ztrue
+areis
+like
+is
+is infiniteis
+x2
+means
+pick
+x1
+is
+is similar
+see
+see inResistancecall
+x2
+is
+is harderTransferTransferadds
+fulfilleds
+zassumes
+isexist
+e
+turnsturnslead
+havingPjoinsPgiven
+given byPrequiresPr1Noteisare
+turns
+iscollisionrecall
+recall fromholds1seriestis
+is inPRecall
+solvetholdsfollows
+follows fromxis
+isise
+forneedstdone
+done with
+done with current
+showsNumber
+Number ofattack
+means
+guaranteedstressed
+saysummarizeNote
+whereasOverview
+Overview ofdiscussedarefunctionsprocess
+known
+known as
+FigconstructionFunctionsbitwise
+bitwise Booleanproposed
+proposed by
+published
+is
+modified
+modified to
+gained
+gained wideis
+is about
+referred
+referred toclaimedlearn
+learn aboutlikefamily
+family ofrequiredFunctions
+Functions fromconstructed
+shows
+encrypted
+encrypted with
+be
+XOR
+is
+x2
+xn
+e
+hconstruction
+construction fromexpressed
+expressed asHi
+Hiconstructionexist
+exist severalleftareMeyerHi
+Hineed
+be
+be publicisis
+is
+is in
+is in particular
+L
+isfigure
+fedciphershasconstruction
+construction forintroduce
+resistsSHAisis
+see
+see beloware
+are inproducesdiagram
+diagram ofchunkshasgiven
+given byillustratesPadding
+Padding ofisappendmodappendneed
+x2
+xn
+subdivided
+subdivided intoxiarevalue
+usedprocessed
+processed inscheduleWjindicatesregisters
+registers ofvaluebeginning
+is
+is equalfunction
+function ofhaveadded
+added to
+modulogiven
+given byAdepicted
+depicted in
+changej
+j inroundshas
+In
+passed
+passed toroundsdesigned
+achieve
+aredesirable
+desirable forDiscussionfamily
+is
+is instructive
+showed
+was
+was able
+foundplaysknownis
+is importantheld
+expected
+expected inare
+meansis
+isare
+are keylessarehaveis
+is insecure
+found
+found inresult
+result in
+result in newComputeisIgnore
+iwasAssumebreakfind
+find secondC
+findisIsDrawe
+xi
+Hixi
+Hie
+Hixi
+xi
+HiHixi
+HiHiHi
+HiHidefineisconsiderhaveforDescribe
+hAssume
+usedused
+used forfile
+pose
+discoveredisProvidetakesperformisexaminebi5
+constitutesEncodeCalculateBreakisCodesknown
+known as
+share
+are
+are symmetriclearnprinciple
+principle behindpropertiesrealized
+realized withPaarHeidelbergPrinciples
+Principles ofuseshown
+shown inPrinciple
+Principle ofis
+sendsis
+assuredprovidedissummarizeis
+is important
+offerconstructed
+constructed inHMACis
+used
+used inisiscalled
+called secretknown
+known as
+known as secret
+demonstrateAttacks
+Attacks Againstconsider
+assume
+ism
+x2isNote
+beAttacks
+Attacks Against
+Attacks Against Secretseems
+occurs
+x
+thatbem
+is
+em
+kgiven
+given bydepends
+depends onemessage
+Howeverforgeconstructed
+constructed withconsists
+consists ofstarts
+starts withMACs
+MACs fromipadarecomputed
+computed with
+XORed
+XORed withopadishis
+is innoted
+isis
+shownMACs
+MACs fromsawisdepicts
+referred
+referred tobuilt
+built fromhave
+xi
+computebeMAC
+MAC of
+istransmittedinvolvesDiscussionpare
+altered
+altered duringferent
+ferent fromusedGMACis
+encrypt
+describesDiscussionbeen
+ized
+ized in
+specified
+specified inintroduced
+cipher
+described
+described inproposed
+proposed at
+found
+found in
+discussedis
+23provideprovided
+provided by
+provided by digitalprovidebased
+based oniswant
+performsek1
+h
+xis
+are
+are secretsigkprProvideis
+is crucialassumestudyAssumeis
+suited
+suited forAssumeare
+are of
+are of equalIsMACk2
+xAssumediscussconsists
+consists of
+consists of z
+X
+xzciAtMACkcalculatedPerformisutilized
+utilized in
+applies
+applies forareAssumeShowisachieveConfidentialityIntegrityauthenticationrepudiationaccomplished
+accomplished throughassume
+learnedestablishedestablishedhavearerolePaarHeidelbergintroduce
+is
+is helpfulclassified
+classified into
+classified into key
+controlgeneratesClassification
+Classification of
+Classification of keygeneratethink
+think ofFreshnesshas
+has severalexposed
+forcedare
+is
+holdsuses
+isPrinciple
+Principle of
+Principle of keyisishashingencryptperiodicallycomputeholds
+requiredProblemassumed
+transmitted
+transmitted viaassumeshown
+shown forparticipants
+participants inKeys
+Keys inextrapolate
+extrapolate severalstoreisestablished
+established witharewants
+receivework
+work for
+work for largeEstablishmentused
+is
+turns
+is
+is in
+eperform
+perform keyEstablishment
+Establishment withdeveloped
+developed in
+isiscontainsbegins
+begins withis
+is important
+viewkses
+is
+needis
+is easy
+shown
+shown inreceives
+ishaveareisimpersonateis
+assumesis
+Note
+thinksisisLetassures
+encrypted
+encrypted with
+e
+included
+included in
+s
+synchronizedis
+considered
+considered askA
+assuredsent
+sent byknown
+known asassured
+verifyProblems
+Problems withdescribeis
+berequirehavecompromised
+is
+isperfect
+perfect forwardshown
+shown earlierEstablishmentislooksMan
+Man inis
+isrecallconfused
+confused withis
+is secure
+consider
+takeLet
+isBis
+is identical
+computesAis
+is identical
+Noteis
+is
+is awarehas
+has muchassumedis
+receivesidentifying
+address
+isbe
+be ablerequirelike
+interceptsis
+is central
+violated
+violated by
+iskpub
+IDAisis
+IDAattempts
+detected
+saidrequire
+is
+computesprovide
+needis
+is crucial
+requestis
+looks
+looks likeneededletis
+transmitted
+transmitted via
+looks
+isPKIcalledincludestructure
+structure ofgivesAlgorithm
+specifiedare
+are manycertified
+thecontrolledcontainsisSignaturenoteChain
+Chain ofbe
+haveLetrequestcontainskpubisis
+trust
+calledarrangedListsis
+usedis
+isisDiscussioninformed
+bereferred
+referred toDiscussionused
+used for
+used
+usesused
+used with
+used with ellipticiswas
+turnedsetintroduced
+istransfersnegotiatecoordinated
+coordinated byscaleisrequirewant
+are
+are atk0k0k0marksareprovidesAssumeremains
+remains secureImagineneededchangedisare
+are necessarydifferentiate
+differentiate betweenhaveKDCekseshaveconsidershavehaveanalyzegenerates
+itransmitsare
+are possiblesellsassumedetected
+detected untilShowShowbecomesbecomesExtendare
+wants
+algorithm
+decideII
+iishaveassumederivedconsider
+derived
+derived byII
+iindicates
+used
+used forAssumeAssumereconsiderusesComputecomputeconsider
+usesuseduseobtain
+i
+Given
+follows
+icertificatesVerifyComputeAssumewants
+replaces
+detectedtriesconsider
+takes
+i
+readShowimpersonateGiven
+certified
+certified bydecrypt
+decrypt oldis
+replacesrequestshasDescribeDrawconsider
+ShowisDHAESAdamsAddisonmentAvailable
+Available atCryptography
+Cryptography forofX9
+AssociationAgreementciphersStandards
+Standards forBaileyBarkanBarreto
+htmlBauerthenticationCRYPTOBYTESBernsteinPaarDOIcrBernsteineditionEBihamShamirpagesKrovetz
+authenticationAdvances
+Advances inBlakeremarks
+remarks on
+Proceedings
+Proceedings ofBlum
+generatorComputBlum
+schemePRESENT
+InBonehComputProceedings
+Proceedings ofShamirBoydBrainpoolBuchmannBuchmannOffice
+Office forextendedDesignCarterAnalyzingMicroChodowiec
+InKocMurphyCohenLangfordUSCriteria
+Criteria forBreakerblockhtmlsecureagainst
+against adaptiveTool
+Tool forDaemen
+AES
+InAESDaemendendeninDentBattery
+Battery ofDiffieDiffieDiffieCOMPUTERcated
+cated keyswindlesDobbertinIEEE
+FCCMRecommendationpdfRecommendation
+Recommendation for
+pdfRecommendation
+Recommendation for
+pdfEberleIEEEeSTREAMhtmlIEEEEldridgecryptosystemIEEESeeWolkerstorfer
+AESProceedingsprovePUBShttpFAQPaar
+RealizableDevice
+Device forundGoldreichUSAGoldreichGoldreichUSAGoldreichGolic
+On
+InAES
+AES onGroverTransactions
+Transactions onHaleviHankerson
+Guide
+Guide toTransactions
+Transactions onconstructions
+constructions of
+constructions of double
+InvolumeSung
+blockOrganization
+Organization forOrganization
+Organization fortechniquesStory
+Story ofGaubatzKaratsubaKoblitzIntroduction
+Introduction toKoblitzMenezesCryptographySpringerPelzlReducingrisks
+risks ofSolinas
+efficientprotocol
+protocol for
+protocol for authenticatedLenstraLidlLim
+blockSpringerAttacksmethod
+method for
+93go
+go onmaximizeMatsui
+OnMaurerMcGrew
+Use
+Use of
+tivesOorschotPressSecureMurphyNaccacheModessuite
+suite for
+suite for randomdardscryptographyCryptologytxtIshtmlProceedings
+Proceedings ofProjectDirectivePointcheval
+In
+Advances
+vances inthesesGovaertsLNCSMDC
+Encyclopedia
+Encyclopedia ofSignatures
+Signatures inexplainSignaturesRanklRivest
+method
+method forCommunications
+Communications ofRivestDenning
+CoDesignsLeander
+m
+SpringerWesleyhttpgeneration
+generation byProceedShamiralgorithms
+algorithms for
+algorithms for primeSilvermanSilvermanSilvermanSinghcurvesLee
+CMACRecommendation
+Recommendation forGCM
+pdfeditionpkqCHES
+8pdfTuchman
+WesleyconferencesSurveyCpdfHardwareWorkshop
+Workshop onWeimerskirchHousleyCorporation
+Corporation forEfficientWollingerStandardlayerlayerimplementationlayerprocessimplementationseeAlicesee
+see publicsee
+see bruteseetagmethodattackdiffusionBlowfishattackfor
+for discreteseesee
+see cipherseelistseeprotocolchosen
+chosen plaintextciphertextsee
+see plaintextresistancewithseeattacksseecryptographysee
+see randomseeStandardPCPCattacksmachinemachinepermutationimplementationpermutationcryptanalysisexponentseeRSAciphersseeexchangeproblemsignaturegenerationequationproblemsee
+see discreteforseesee
+see electronicsee
+see ellipticsee
+see ellipticseesignatureacceleration
+acceleration throughcurveexchangeseecurvesseeexponentencryptionclassseefunctionsee
+see brutesignaturealgorithmextendedpolynomial95networkTheoremfieldseefingerprint
+fingerprint ofsee
+see linearsee
+see finitesee
+see greatestseeseeHeadquarters17seefunctionfunctionsfromseeseecryptosystemsIEEEseealgorithmvectorprobleminverseseesee
+see keyprincipleproblemestablishmentpredistributionwhiteningseetheoremseesee
+see linearregistercoefficientsattackseeseeMACencryptionman
+man incryptosystemsmeet
+meet inconstructioncodeseeseesee
+see multilinearmultilinear
+multilinear modularcomputationtablemultivariate
+multivariate quadraticInstitute
+Institute ofAgencyseeseeseefunctionseeseeout
+out ofsignaturepaddingperfectprinciplealgorithm
+algorithm for
+algorithm for discretemethodpostresistanceRabinprimetheoremMersennesee
+see randomseeciphersseecomputertablessecuresecurityseeseedecryptionattacksattacksPSSresistancesee
+see cryptographySecure
+see
+see SHAtermobjectivesShanksattacksanalysissee
+see cryptographyattackseesee
+see simplesee
+see exponentistationstreamseeattacksubstitutionattackanalysisseelogarithmsattackslengthsee
+see randomsecurityphaseGrahamproofs
